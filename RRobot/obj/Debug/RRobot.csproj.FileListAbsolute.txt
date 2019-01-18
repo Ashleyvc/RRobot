@@ -1,0 +1,7 @@
+C:\Users\vanca\Documents\SC Robot\RRobot\RRobot\obj\Debug\RRobot.csprojAssemblyReference.cache
+C:\Users\vanca\Documents\SC Robot\RRobot\RRobot\obj\Debug\RRobot.csproj.CoreCompileInputs.cache
+C:\Users\vanca\Documents\SC Robot\RRobot\RRobot\bin\Debug\RRobot.exe.config
+C:\Users\vanca\Documents\SC Robot\RRobot\RRobot\bin\Debug\RRobot.exe
+C:\Users\vanca\Documents\SC Robot\RRobot\RRobot\bin\Debug\RRobot.pdb
+C:\Users\vanca\Documents\SC Robot\RRobot\RRobot\obj\Debug\RRobot.exe
+C:\Users\vanca\Documents\SC Robot\RRobot\RRobot\obj\Debug\RRobot.pdb
